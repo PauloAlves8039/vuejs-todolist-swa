@@ -2,7 +2,7 @@
   <div id="app">
     <div class="ui inverted vertical masthead center aligned segment">
       <div class="ui text container">
-        <h1 class="ui inverted header"> Aplicação Todo List com Vue.js 3</h1>
+        <h1 class="ui inverted header"> Aplicação Todo List usando Vue.js 3</h1>
         <h2 class="ui inverted header">Glaucia Lemos
           <div class="sub header">Cloud Advocate em JavaScript/Node.js @ Microsoft</div>
         </h2>
